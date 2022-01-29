@@ -293,7 +293,7 @@ F 0 "R2" V 4835 2400 50  0000 C CNN
 F 1 "10K" V 4744 2400 50  0000 C CNN
 F 2 "Potentiometers:Potentiometer_Trimmer_Piher_PT-10v10_Horizontal_Px10.0mm_Py5.0mm" H 4950 2400 50  0001 C CNN
 F 3 "~" H 4950 2400 50  0001 C CNN
-F 4 "Mouser 531-PT10MH10103A22ES" V 4950 2400 50  0001 C CNN "Part"
+F 4 "Mouser 531-PT10MV11103A22S" V 4950 2400 50  0001 C CNN "Part"
 	1    4950 2400
 	0    -1   -1   0   
 $EndComp
@@ -358,7 +358,7 @@ F 0 "R4" V 4885 3650 50  0000 C CNN
 F 1 "10K" V 4794 3650 50  0000 C CNN
 F 2 "Potentiometers:Potentiometer_Trimmer_Piher_PT-10v10_Horizontal_Px10.0mm_Py5.0mm" H 5000 3650 50  0001 C CNN
 F 3 "~" H 5000 3650 50  0001 C CNN
-F 4 "Mouser 531-PT10MH10103A22ES" V 5000 3650 50  0001 C CNN "Part"
+F 4 "Mouser 531-PT10MV11103A22S" V 5000 3650 50  0001 C CNN "Part"
 	1    5000 3650
 	0    -1   -1   0   
 $EndComp
@@ -423,7 +423,7 @@ F 0 "R6" V 4885 4900 50  0000 C CNN
 F 1 "10K" V 4794 4900 50  0000 C CNN
 F 2 "Potentiometers:Potentiometer_Trimmer_Piher_PT-10v10_Horizontal_Px10.0mm_Py5.0mm" H 5000 4900 50  0001 C CNN
 F 3 "~" H 5000 4900 50  0001 C CNN
-F 4 "Mouser 531-PT10MH10103A22ES" V 5000 4900 50  0001 C CNN "Part"
+F 4 "Mouser 531-PT10MV11103A22S" V 5000 4900 50  0001 C CNN "Part"
 	1    5000 4900
 	0    -1   -1   0   
 $EndComp
