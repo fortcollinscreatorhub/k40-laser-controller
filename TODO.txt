@@ -1,0 +1,4 @@
+Issues to fix if we rev the PCB:
+- Use a different footprint for mounting holes, with a larger gap in copper.
+  This will prevent metal screws from contacting the copper fills.
+  The current design requires the use of plastic washers or screws.
