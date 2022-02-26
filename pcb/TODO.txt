@@ -4,3 +4,5 @@ Issues to fix if we rev the PCB:
   The current design requires the use of plastic washers or screws.
 - Check LASER control transistor footprint; may want to use the variant with
   wider hole spacing.
+- Consider inverting LED indicator on air assist signal, since the attached
+  relay board inverts the signal.
