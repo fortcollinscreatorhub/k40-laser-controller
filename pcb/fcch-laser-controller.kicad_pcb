@@ -1642,7 +1642,7 @@
     )
   )
 
-  (gr_text "13 EN\nDIR, STEP, LIM:\nX 12, 14, 21\nY 27, 26, 22\nZ 25, 33, 23" (at 182.88 92.71) (layer F.SilkS)
+  (gr_text "19 AIR, 17 LASER PWM,\n13 MOTOR EN\nDIR, STEP, LIM:\nX 12, 14, 21\nY 27, 26, 22\nZ 25, 33, 23" (at 178.562 93.345) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "STP,DIR,EN\nGND,GND,GND" (at 144.78 147.32) (layer F.SilkS) (tstamp 61F1221F)

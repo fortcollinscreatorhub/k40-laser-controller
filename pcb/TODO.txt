@@ -2,3 +2,5 @@ Issues to fix if we rev the PCB:
 - Use a different footprint for mounting holes, with a larger gap in copper.
   This will prevent metal screws from contacting the copper fills.
   The current design requires the use of plastic washers or screws.
+- Check LASER control transistor footprint; may want to use the variant with
+  wider hole spacing.
